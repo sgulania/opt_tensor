@@ -21,7 +21,7 @@ Steps to be followed
 2. Compute all intermediates small tensor product and their cost
 3. Find the least cost combination.
 4. Reduce it further if same intermediate is used more than once. 
-5. Test it with dummy case.
+5. Test it on HPC
 6. Print the C++, FORTRAN and Python script for the final expression.
 7. Develop GUI for the software using tkinter
 
