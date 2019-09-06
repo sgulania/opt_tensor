@@ -1,6 +1,3 @@
-
-//.. image:: https://img.shields.io/badge/python-3.4%2C%203.5%2C%203.6-brightgreen.svg
-
 Optimizing Tensor Contraction
 =============================
 Evaluating tensor product and finding the optimized solution for its contraction. This will
