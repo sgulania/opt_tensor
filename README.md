@@ -1,6 +1,6 @@
 # Optimizing Tensor Contraction
 Evaluating tensor product and finding the optimized solution for its contraction. This will
-enhance reduce the computation and speed up the calculation. 
+reduce the memory usage and speed up the calculation. 
 
 ## Symmetric Tensor
 Applications - Machine learning and Neural Networks
