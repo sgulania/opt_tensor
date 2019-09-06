@@ -27,7 +27,7 @@ Steps to be followed
 
 Useful libraries 
 ----------------
-*SymPy (https://docs.sympy.org/latest/install.html)
+SymPy (https://docs.sympy.org/latest/install.html)
 
 
 References 
